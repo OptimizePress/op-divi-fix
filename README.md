@@ -2,7 +2,7 @@
 
 ##Description
 
-Description: Fixes Divi Theme by removing some of it's action while using LiveEditor
+Description: Fixes Divi Theme by removing some of it's actions while using LiveEditor. It works on all versions of Divi Theme.
 
 ##Installation
 
