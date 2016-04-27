@@ -11,8 +11,7 @@ Description: Fixes Divi Theme by removing some of it's actions while using LiveE
 3. Activate the plugin
 
 ##Requirements
-* Requires at least: 3.5
-* Stable tag: 1.0
+* Requires at least: WordPress 3.5
 * License: GPLv2 or later
 * License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
