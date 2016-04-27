@@ -19,5 +19,8 @@ Description: Fixes Divi Theme by removing some of it's actions while using LiveE
 
 ##Changelog
 
-####1.0
+####1.0.0
 * Initial release
+
+####1.0.1
+* Added load_modules_styles fix
